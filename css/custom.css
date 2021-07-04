@@ -1,1 +1,16 @@
 /* your styles go here */
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+    .gifs {
+        width: 400px;
+    }
+}
+@media only screen and (max-width: 600px) and (min-width: 330px){
+    .gifs {
+        width: 300px;
+    }
+}
+@media only screen and (max-width: 329px) {
+    .gifs {
+        width: 200px;
+    }
+}
